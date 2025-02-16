@@ -145,7 +145,14 @@
         },
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
-            "liveries": [],
+            "liveries": [
+                {
+                     "name": "Turkish Airlines 2025 FEB-MARCH Event"
+                     "texture": [
+                          "https://i.ibb.co/JFgFyV1C/con.png"
+                     ]
+                }
+            ],
             "labels": [
                 "Texture"
             ]
