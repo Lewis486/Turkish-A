@@ -189,7 +189,15 @@
                         "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
                         "https://i.ibb.co/NDH7RT3/turkishairlines.png"
                     ],
-                    "credits": "Lewis"
+                    "credits": "Geofs"
+                },
+               {
+                    "name": "Turkish Airlines RJA Lease",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                        "https://i.ibb.co/QFstQgML/turkoflota350fail-6.png"
+                    ],
+                    "credits": "Burning Hell"
                 },
                 {
                     "name": "Turkish Airlines UEFA",
@@ -222,7 +230,7 @@
                         "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
                         "https://i.ibb.co/B2F3Z1zP/turkish.jpg"
                     ],
-                    "credits": "Lewis"
+                    "credits": "Geofs"
                 }
             ],
             "labels": [
@@ -449,7 +457,7 @@
                     "texture": [
                         "https://i.ibb.co/v6sn6dDB/tk.jpg"
                     ],
-                    "credits": "Lewis"
+                    "credits": "Default"
                 }
             ],
             "labels": [
@@ -518,7 +526,7 @@
                     "texture": [
                         "https://i.ibb.co/R4pbHY02/Untitled.png"
                     ],
-                    "credits": "Lewis"
+                    "credits": "Default"
                 },
                 {
                     "name": "Turkish Airlines 787-9",
