@@ -522,18 +522,11 @@
             "name": "Boeing b787-9",
             "liveries": [
                 {
-                    "name": "Turkish Airlines 787-9 Art",
-                    "texture": [
-                        "https://i.ibb.co/R4pbHY02/Untitled.png"
-                    ],
-                    "credits": "Default"
-                },
-                {
-                    "name": "Turkish Airlines 787-9",
+                    "name": "Turkish Airlines",
                     "texture": [
                         "https://i.ibb.co/JRGdBqQS/Turkish-Airrliness.jpg"
                     ],
-                    "credits": "lewis"
+                    "credits": "Default"
                 }
             ],
             "labels": [
