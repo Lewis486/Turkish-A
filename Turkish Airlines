@@ -350,7 +350,7 @@
                     "texture": [
                         "https://i.ibb.co/FR6XkXK/ATEEE.png"
                     ],
-                    "credits": "Lewis"
+                    "credits": "Airbus and Ferrari Fan"
                 }
             ],
             "labels": [
@@ -527,6 +527,13 @@
                         "https://i.ibb.co/JRGdBqQS/Turkish-Airrliness.jpg"
                     ],
                     "credits": "Default"
+                },
+                {            
+                    "name": "Turkish Airlines #1",
+                    "texture": [
+                        "https://i.ibb.co/fdHpgf4p/Turkish-Art.png"
+                    ],
+                    "credits": "Lewis"
                 }
             ],
             "labels": [
