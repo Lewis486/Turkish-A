@@ -199,14 +199,6 @@
                     ],
                     "credits": "Burning Hell"
                 },
-               {
-                    "name": "Turkish Airlines x AirAlps",
-                    "texture": [
-                        "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.postimg.cc/6QXMKNTR/TK-X-AAP.png"
-                    ],
-                    "credits": "Lewis"
-                },
                 {
                     "name": "Turkish Airlines UEFA",
                     "texture": [
