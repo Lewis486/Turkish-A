@@ -417,7 +417,15 @@
         },
         "2871": {
             "name": "Airbus a320neo",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "Turkish Airlines",
+                    "texture": [
+                        "https://i.ibb.co/PZxnQBz4/a320n.png"
+                    ],
+                    "credits": "Lewis"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
